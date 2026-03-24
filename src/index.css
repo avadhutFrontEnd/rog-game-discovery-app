@@ -2,3 +2,4 @@
 @import './styles//base.css';
 
 /* Any additional global styles */
+@import './styles/layout.css';
